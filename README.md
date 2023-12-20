@@ -8,3 +8,4 @@
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [validParantheses.py](./problem-set/20-valid-parentheses/validParentheses.py) |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [mergeTwoList.py](./problem-set/21-merge-two-sorted-lists/mergeTwoList.py)
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [removeDuplicates.java](./problem-set/26-remove-duplicates-from-sorted-array/removeDuplicates.java)
+| 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [removeElement.java](./problem-set/27-remove-element/removeElement.java)
